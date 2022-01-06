@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/nasa-apod-api/static/css/main.4010d7d6.css",
-    "main.js": "/nasa-apod-api/static/js/main.be6ea020.js",
-    "static/js/787.2154af9a.chunk.js": "/nasa-apod-api/static/js/787.2154af9a.chunk.js",
-    "static/media/universe.jpeg": "/nasa-apod-api/static/media/universe.0c0257b1b7a67da5df41.jpeg",
-    "static/media/heart.svg": "/nasa-apod-api/static/media/heart.f8cc1a36909061337783a857f1d18c52.svg",
-    "index.html": "/nasa-apod-api/index.html",
-    "main.4010d7d6.css.map": "/nasa-apod-api/static/css/main.4010d7d6.css.map",
-    "main.be6ea020.js.map": "/nasa-apod-api/static/js/main.be6ea020.js.map",
-    "787.2154af9a.chunk.js.map": "/nasa-apod-api/static/js/787.2154af9a.chunk.js.map"
+    "main.css": "/Shopify-Front-End-Challenge/static/css/main.13b51332.css",
+    "main.js": "/Shopify-Front-End-Challenge/static/js/main.06213785.js",
+    "static/js/787.2154af9a.chunk.js": "/Shopify-Front-End-Challenge/static/js/787.2154af9a.chunk.js",
+    "static/media/universe.jpeg": "/Shopify-Front-End-Challenge/static/media/universe.0c0257b1b7a67da5df41.jpeg",
+    "static/media/heart.svg": "/Shopify-Front-End-Challenge/static/media/heart.f8cc1a36909061337783a857f1d18c52.svg",
+    "index.html": "/Shopify-Front-End-Challenge/index.html",
+    "main.13b51332.css.map": "/Shopify-Front-End-Challenge/static/css/main.13b51332.css.map",
+    "main.06213785.js.map": "/Shopify-Front-End-Challenge/static/js/main.06213785.js.map",
+    "787.2154af9a.chunk.js.map": "/Shopify-Front-End-Challenge/static/js/787.2154af9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4010d7d6.css",
-    "static/js/main.be6ea020.js"
+    "static/css/main.13b51332.css",
+    "static/js/main.06213785.js"
   ]
 }
