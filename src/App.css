@@ -1,0 +1,10 @@
+html {
+    background-color: black;
+}
+.img-bg {
+    background-image: url("universe.jpeg");
+    background-blend-mode: darken;
+    background-attachment: fixed;
+    background-size: contain;
+    background-position: center;
+}
